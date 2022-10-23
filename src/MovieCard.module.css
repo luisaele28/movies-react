@@ -8,6 +8,7 @@
 .movieImage{
     border-radius: 20px;
     background-color: azure;
+    cursor: pointer;
 }
 
 @media (max-width: 560px) {
